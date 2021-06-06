@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_home" type="id" />
+    <item name="menu_person" type="id" />
+    <item name="menu_activity" type="id" />
+    <item name="menu_other" type="id" />
+    <item name="container_fragment" type="id" />
+    <item name="bottom_navigation_menu" type="id" />
+    <item name="deskripsi" type="id" />
+</resources>

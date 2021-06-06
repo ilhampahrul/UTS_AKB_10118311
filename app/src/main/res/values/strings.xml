@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UTS_Ilham_10118311</string>
+    <string name="ini_halaman_activity" />
+    
+    <string name="judul_1">JUDUL 1</string>
+    <string name="judul_2">JUDUL 2</string>
+    <string name="judul_3">JUDUL 3</string>
+
+    <string name="desk_1">anemo</string>
+    <string name="desk_2">person</string>
+    <string name="desk_3">info</string>
+</resources>
